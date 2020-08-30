@@ -1,0 +1,18 @@
+location,Galapagos Islands,Galapagos Islands,Galapagos Islands,Galapagos Islands,Galapagos Islands,Galapagos Islands,Galapagos Islands
+lat,-0.00009,-0.00009,-0.00009,-0.00009,-0.00009,-0.00009,-0.00009
+lon,-90.46875,-90.46875,-90.46875,-90.46875,-90.46875,-90.46875,-90.46875
+asl,-0.667,-0.667,-0.667,-0.667,-0.667,-0.667,-0.667
+variable,Temperature,Temperature,Temperature,Relative Humidity,Relative Humidity,Relative Humidity,Precipitation Total
+unit,°C,°C,°C,%,%,%,mm
+level,2 m elevation corrected,2 m elevation corrected,2 m elevation corrected,2 m,2 m,2 m,sfc
+resolution,daily,daily,daily,daily,daily,daily,daily
+aggregation,Minimum,Maximum,Mean,Minimum,Maximum,Mean,Summation
+timestamp,Galapagos Islands Temperature [2 m elevation corrected],Galapagos Islands Temperature [2 m elevation corrected],Galapagos Islands Temperature [2 m elevation corrected],Galapagos Islands Relative Humidity [2 m],Galapagos Islands Relative Humidity [2 m],Galapagos Islands Relative Humidity [2 m],Galapagos Islands Precipitation Total
+20200803T0000,18.905663,20.305662,19.716497,89.0,93.0,91.833336,0.0
+20200804T0000,18.675663,19.845663,19.091082,89.0,93.0,91.875,0.0
+20200805T0000,18.775663,19.915663,19.346497,90.0,93.0,91.833336,0.0
+20200806T0000,18.875662,19.855663,19.351494,88.0,93.0,90.625,0.0
+20200807T0000,18.385662,19.755663,19.125662,88.0,93.0,90.791664,0.0
+20200808T0000,18.375662,19.795662,18.93691,88.0,93.0,90.75,0.0
+20200809T0000,18.975662,20.205662,19.39858,86.0,92.0,89.958336,0.0
+20200810T0000,18.335663,19.805662,18.958996,88.0,93.0,91.583336,0.0
