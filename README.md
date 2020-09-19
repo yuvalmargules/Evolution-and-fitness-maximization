@@ -1,3 +1,3 @@
 ## Introduction to Evolution
-### Scientific Computing with Python Project
+### Scientific Computing with Python
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Darwin%27s_finches_by_Gould.jpg" width=400>
