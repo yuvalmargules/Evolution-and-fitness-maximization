@@ -1,5 +1,5 @@
 ## Introduction to Evolution
-### Scientific Computing with Python
+### Scientific Computing Project
 <img src="https://ars.els-cdn.com/content/image/3-s2.0-B0122268652000031-gr6.jpg" width=400\>
 
 <div>
