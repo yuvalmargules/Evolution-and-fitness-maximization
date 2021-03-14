@@ -22,4 +22,4 @@
 <br><br>
 
 To enter the project <a href="https://github.com/yuvalmargules/Evolution-and-fitness-maximization/blob/master/evolution.ipynb"> Click Here </a> <br>
-If it fails to open, try to reload it.
+
